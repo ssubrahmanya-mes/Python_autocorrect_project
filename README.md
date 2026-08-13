@@ -70,6 +70,7 @@ MCA – Artificial Intelligence & Machine Learning
 This project is created for educational and learning purposes.
 
 
+
 ### ⭐ For your GitHub project
 
 Since you're building this as an **AI/ML portfolio project**, I would especially recommend adding these sections later:
