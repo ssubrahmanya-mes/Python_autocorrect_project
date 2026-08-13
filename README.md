@@ -48,12 +48,6 @@ django_autocorrect/
 ├── .gitignore
 └── README.md
 
-## ⚙️ Installation
-
-### 1. Clone the repository
-
-```bash
-<img width="1175" height="677" alt="Screenshot 2026-08-13 163446" src="https://github.com/user-attachments/assets/1bee2844-84fc-4f8d-8813-3bb94cec4152" />
 Example:
 
 🔮 Future Improvements
