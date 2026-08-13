@@ -1,3 +1,4 @@
+<img width="1175" height="677" alt="Screenshot 2026-08-13 163446" src="https://github.com/user-attachments/assets/d5726c87-a633-4375-9a60-cbf6c8d11889" />
 # Django AutoCorrect
 
 A simple web-based AutoCorrect application built using Python and Django. 
